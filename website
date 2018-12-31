@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+
+<html>
+
+    <head>
+        <link rel="stylesheet" href="websitecss.css">
+        <title>TBG School Projects</title>
+    </head>
+
+    <body>
+
+        <header>
+            <h1>TBG School Projects</h1>
+        </header>
+
+        <div class="cards">
+
+            <div class="card">
+                <img src="img_avatar.png" alt="Avatar" style="width:100%">
+                <div class="container">
+                  <h4><b>Simple Login </b></h4> 
+                  <p> <br>JavaScript login form using a 'for' loop, prompts, ifs, and else ifs. <br> <br>
+                     Lines of code: 12
+                  </p> 
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="img_avatar.png" alt="Avatar" style="width:100%">
+                <div class="container">
+                  <h4><b>RPS</b></h4> 
+                  <p> <br> JavaScript 'Rock, Paper, Scissors' game using variables, constants, objects, functions, ifs, and else ifs. <br> <br>
+                     Lines of code: 59
+                  </p> 
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="img_avatar.png" alt="Avatar" style="width:100%">
+                <div class="container">
+                  <h4><b>Guess the Number</b></h4> 
+                  <p> <br> JavaScript 'Guess the Number' game using functions, prompts, variables, constants, comparisons, ifs, else ifs, and loops. <br> <br>
+                     Lines of code: 73
+                  </p> 
+                </div>
+            </div>
+
+            <div class="card">
+                <img src="img_avatar.png" alt="Avatar" style="width:100%">
+                <div class="container">
+                  <h4><b>Notes & Reminders</b></h4> 
+                  <p> <br> JavaScript 'Notes & Reminders' system using... <br> <br>
+                     Lines of code: TBA
+                  </p> 
+                </div>
+            </div>
+
+    </div>
+
+        <div class="footer">
+            <p>Created by TBG © 2019</p>
+        </div>
+
+    </body>
+
+</html>
